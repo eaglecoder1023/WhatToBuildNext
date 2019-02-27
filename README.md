@@ -2,6 +2,6 @@
 
 =======================
 
-Under building
+Fully Customized WordPress Site
 
 -----------------------
